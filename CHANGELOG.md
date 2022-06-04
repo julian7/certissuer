@@ -9,4 +9,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 No changes so far.
 
+## [v0.1.0] - Jun 5, 2022
+
+Initial release
+
 [Unreleased]: https://github.com/julian7/certissuer
+[v0.1.0]: https://github.com/julian7/certissuer/releases/tag/v0.1.0
