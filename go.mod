@@ -3,7 +3,7 @@ module github.com/julian7/certissuer
 go 1.18
 
 require (
-	github.com/urfave/cli/v2 v2.11.0
+	github.com/urfave/cli/v2 v2.14.1
 	go.uber.org/zap v1.21.0
 )
 
