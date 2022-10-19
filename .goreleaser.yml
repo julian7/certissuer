@@ -17,6 +17,8 @@ builds:
   goarch:
   - amd64
   - arm64
+universal_binaries:
+- replace: true
 archives:
 - name_template: "{{.ProjectName}}-{{.Os}}-{{.Arch}}-{{.Version}}"
   replacements:

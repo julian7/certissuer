@@ -9,7 +9,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 Changed:
 
-* Upgrade github.com/urfave/cli/v2 to 2.11.0
+* Upgrade github.com/urfave/cli/v2 to 2.20.0
+* Universal binary for macos
 
 ## [v0.1.0] - Jun 5, 2022
 
